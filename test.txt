@@ -1,5 +1,5 @@
 This is a test file.
 
-
+New line
 
 This is an update of test file.
