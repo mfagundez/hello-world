@@ -11,7 +11,7 @@ public class JavaHelloWorld {
     private static final String HELLO_AGAIN_WORLD = "Hello again, Java world!";
 
     /**
-     * Logger instance
+     * Logger instance for Java project
      */
     private static Logger logger = Logger.getLogger(JavaHelloWorld.class.getName());
 
